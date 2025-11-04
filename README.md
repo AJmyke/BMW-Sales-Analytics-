@@ -46,3 +46,8 @@ Beyond tracking sales, it explores how **technology shifts, regional demand, and
 ## 💬 Business Impact
 This dashboard demonstrates how BMW’s evolution toward **luxury, efficiency, and sustainability** reshaped its market performance.  
 It transforms raw automotive data into **actionable business insights** for executives — answering not only *how much BMW sold*, but *why those results happened*.
+
+---
+
+## Live Dashboard
+🔗 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMWJjOGVlZmUtYWI2MC00ZmZlLThlMTgtNTNjMzVlZjk3OWI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
