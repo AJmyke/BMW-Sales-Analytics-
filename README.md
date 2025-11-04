@@ -50,4 +50,4 @@ It transforms raw automotive data into **actionable business insights** for exec
 ---
 
 ## Live Dashboard
-🔗 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMWJjOGVlZmUtYWI2MC00ZmZlLThlMTgtNTNjMzVlZjk3OWI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+🔗 [View Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZWM3NzYxYjctODQzYy00ZmI5LWI3MzUtZmNmMjNlNzI5OGVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
